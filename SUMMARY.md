@@ -1,5 +1,5 @@
-# Summary
+# Table of Contents
 
-* New chapter
-* First entry
+* [New chapter]()
+* [First entry]()
 
